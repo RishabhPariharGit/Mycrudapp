@@ -68,5 +68,3 @@ return (
 }
 
 export default App
-
-// git added file
